@@ -1,5 +1,5 @@
 # Amazon-Clone
-First HTML & CSS project.
+My First Git Repository.
 <br>
 Author-Ram Kumar G
 
