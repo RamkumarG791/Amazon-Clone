@@ -1,2 +1,5 @@
 # Amazon-Clone
-First HTML project
+First HTML & CSS project.
+<br>
+Author-Ram Kumar G
+
